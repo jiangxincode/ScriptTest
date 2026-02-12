@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Program:
-#	Add a new group named class1, then add thirty users named #	stu01-stu30 to this group.	
+#	Add a new group named class1, then add thirty users named stu01-stu30 to this group.	
 # Version:
 #	Version 0.01
 # Author:
